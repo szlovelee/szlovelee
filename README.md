@@ -1,4 +1,7 @@
-### 👾 Helloooo 👾
+<div align="center">
+   👾 Helloooo 👾
+</div>
+
 
 - 🌱 I’m currently learning Game Development with Unity  <img src="https://img.shields.io/badge/unity-000000?style=flat&logo=Unity&logoColor=FFFFFF"/>
 - 📫 How to reach me: 8976guswl@naver.com 
